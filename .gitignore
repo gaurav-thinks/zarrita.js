@@ -1,6 +1,5 @@
 node_modules/
 *.zr3/
-dist/
 *.tgz
 
 .venv
